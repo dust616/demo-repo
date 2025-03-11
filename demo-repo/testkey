@@ -46,4 +46,8 @@ RSfgR7ghRCrZghEaLYMYalJluf5y5FmaoPwzO3k6fGxqJkrK5bnP0l+i+k44X0EGWLOnE9
 pIHDsuFE/MSWsP/0S2TbGIgwksRcf2IqeJuOcqqsVaEpUCTYjsOLUgC+LrHeJkMCc7MuUk
 cMRrIYjTxsZYoW8wdoEf+yXSICNlrGwWuUadThR9Cqnj8ElxvJwx2cmtzkZhEDW4mllAxB
 +YmOLMcxK70kUwAAABZpc2FhY2d1aWpvc2FAZ21haWwuY29tAQID
+Host *
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_rsa
 -----END OPENSSH PRIVATE KEY-----
